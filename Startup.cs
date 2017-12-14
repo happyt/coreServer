@@ -16,6 +16,7 @@ namespace CorePersonApi
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            Console.WriteLine("ABC");
         }
 
         public IConfiguration Configuration { get; }
