@@ -13,4 +13,5 @@ How to use this project is described in the following articles:
 * [Building a WebAPI Service with .NET Core 2.0](https://jeremybytes.blogspot.com/2017/09/buidling-webapi-service-with-net-core-20.html) 
 
 
+Next, try on Mac
 
